@@ -76,6 +76,9 @@ Player.prototype.handleInput = function(move) {
         case "up":
         if(this.y != 60){
         this.y = this.y - 85;
+    } else{
+        this.x = 202;
+        this.y = 400;
     }
         break;
         case "down":
