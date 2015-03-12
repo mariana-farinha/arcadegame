@@ -27,6 +27,10 @@ update-> function that checks if the position of the player needs to be restarte
 render-> function that displays the player on the screen
 handleInput-> function that commands the player to act according to the keyboard input that fired the event listener and respecting the platform boundaries
 
+####Run and Play the Application
+Open index.html and start playing using the following keyboard controls to move your character: left, right, up, down.
+Everytime the you collide with a bug the game restarts and you're taken to the starting point.
+
 #####Remarks
 The game has a total of 3 enemy instances.
 The goal of this game is stay in play for as long as possible.
