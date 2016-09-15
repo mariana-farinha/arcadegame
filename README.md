@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game
+Frogs
 ===============================
 
 ##Arcade Game
